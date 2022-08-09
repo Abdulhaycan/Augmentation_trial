@@ -221,5 +221,3 @@ class Augment():
         warp_data = data * np.array(cs_data).transpose()
 
         return warp_data
-
-# In[ ]:
